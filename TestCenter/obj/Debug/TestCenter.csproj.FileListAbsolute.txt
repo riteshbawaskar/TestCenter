@@ -1,0 +1,10 @@
+H:\Dev\TestCenter\TestCenter\bin\Debug\TestCenter.exe.config
+H:\Dev\TestCenter\TestCenter\bin\Debug\TestCenter.exe
+H:\Dev\TestCenter\TestCenter\bin\Debug\TestCenter.pdb
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.csprojResolveAssemblyReference.cache
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.Form1.resources
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.Properties.Resources.resources
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.csproj.GenerateResource.cache
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.csproj.CoreCompileInputs.cache
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.exe
+H:\Dev\TestCenter\TestCenter\obj\Debug\TestCenter.pdb
